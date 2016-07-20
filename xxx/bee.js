@@ -1,3 +1,4 @@
+//这是js
 var bee = (function(bee){
 	bee.abc = function(){
 		alert(123);
@@ -6,3 +7,6 @@ var bee = (function(bee){
 })(bee||{});
 
 bee.abc();
+
+
+
